@@ -14,6 +14,8 @@ Budgetton is a simple web application to track your expenses and visualize your 
 ## APIs Integrated
 
 - **Exchange Rate API**: Fetches real-time exchange rates to convert expenses to different currencies. The app uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to get the latest exchange rates.
+- **LocalStorage**: Stores expenses data in the LocalStorage which allows the data to be fetched from the device's browser to be used again in another session.
+- **Chart.js**: Renders chart for data visualisation of different categories of expenditure done.
 
 ## How to Use
 
